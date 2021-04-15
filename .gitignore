@@ -1,4 +1,10 @@
 # ignores following folders
 bin/
 build/
-xcode
+
+xcode/CMakeFiles
+xcode/LearnOpenGL.xcodeproj/project.xcworkspace/xcshareddata
+cmake_install.cmake
+CMakeCache.txt
+ReRunCMake.make
+root_directory.h
