@@ -8,3 +8,7 @@ cmake_install.cmake
 CMakeCache.txt
 ReRunCMake.make
 root_directory.h
+xcode/LearnOpenGL.xcodeproj/project.xcworkspace/xcuserdata/cl10031.xcuserdatad
+xcode/LearnOpenGL.xcodeproj/xcuserdata/cl10031.xcuserdatad/xcschemes
+xcode/Debug
+xcode/LearnOpenGL.build
